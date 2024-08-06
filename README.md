@@ -10,6 +10,9 @@ A simple and customizable password generator built with React and Vite. This app
 - Copy the generated password to the clipboard with a single click.
 - Utilizes React hooks: `useState`, `useCallback`, `useEffect`, and `useRef`.
 
+##Deployed
+[Password Generator](https://password-generator-nu-beige.vercel.app/)
+
 ## Demo
 
 ![Password Generator Demo](public/demo.png)
