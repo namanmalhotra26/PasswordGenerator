@@ -60,3 +60,4 @@ A simple and customizable password generator built with React and Vite. This app
 - Vite
 - JavaScript
 - CSS
+- Tailwindcss
